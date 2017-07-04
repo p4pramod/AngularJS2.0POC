@@ -7,6 +7,7 @@ import { Component } from '@angular/core';
 export class AppComponent {
 
     testClick(args: string) {
+        //test comments
         alert(args);
     }
 }
